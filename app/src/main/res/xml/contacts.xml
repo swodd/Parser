@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <contacts>
+        <contact
+            first_name = "Anton"
+            last_name = "Antonenko"
+            phone = "123456"/>
+        <contact
+            first_name = "Boris"
+            last_name = "Borisenko"
+            phone = "654321"/>
+        <contact
+            first_name = "Wolodymyr"
+            last_name = "Wolodenko"
+            phone = "321456"/>
+        <contact
+            first_name = "Nikolay"
+            last_name = "Nikolayenko"
+            phone = "654123"/>
+    </contacts>
+
+</PreferenceScreen>
